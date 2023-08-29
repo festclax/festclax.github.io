@@ -1,11 +1,11 @@
 title: Festus Aigbedion # Your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/assets/css/Bitmap in Quotes.cdr3 # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  I am a statistician and a Data Analyst 
   <br><br>
-  Second description 
+  I give graphical interpretation and easy to understand pictures to data 
   <br><br>
-  <a href="https://www.linkedin.com/in/festus-aigbedion-471567287/">View My LinkedIn Profile</a> 
+  #<a href="https://www.linkedin.com/in/festus-aigbedion-471567287/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
